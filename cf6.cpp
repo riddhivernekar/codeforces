@@ -8,6 +8,8 @@ bool seek(int i,string s,int n,char ch)
         if(ch==s[j]){return true;}
     }
     return false;
+//solve
+	
 }
 int main() {
   
